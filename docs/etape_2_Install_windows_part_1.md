@@ -1,3 +1,13 @@
+# Étape 2 :
+
+- Configurer l’OOBE (Out-Of-Box Experience).
+
+- Appliquer les bonnes pratiques d’installation : nom du poste, comptes utilisateurs, partitions (en tout cas essayer).
+
+- Activer Windows si possible (ce n’était pas mon cas).
+
+- Préparer un dossier partagé entre l’ordinateur et la machine virtuelle.
+
 ![01](https://github.com/user-attachments/assets/37f375c5-501b-4237-ad7f-b12199c592f3)
 ![02](https://github.com/user-attachments/assets/d492f440-1496-40be-89c0-ab07972f3a37)
 ![03](https://github.com/user-attachments/assets/f2d9fbaa-21b5-4fc7-9fa8-e19667bf8712)

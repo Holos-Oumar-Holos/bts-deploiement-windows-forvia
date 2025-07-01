@@ -10,7 +10,7 @@
     
 - J’ai ouvert les Deployment and Imaging Environment Tools pour poursuivre le déploiement.
 
-
+---
 ![01](https://github.com/user-attachments/assets/4e2ad6de-4adf-4862-9432-82b062f96717)
 ![02](https://github.com/user-attachments/assets/369d19f0-20bf-4731-9c04-c3aad1006d10)
 ![001](https://github.com/user-attachments/assets/07822360-d893-4345-be1a-4de4424fa0f7)

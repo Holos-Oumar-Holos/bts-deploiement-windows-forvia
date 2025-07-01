@@ -9,7 +9,7 @@
 ---
 
 ## 1. Introduction
-Ce projet automatise l’installation et la configuration d’un poste Windows 10/11 Pro en entreprise.  
+Ce projet automatise l’installation et la configuration d’un poste Windows 10.
 Il utilise **PowerShell**, **Chocolatey** et **Sysprep** pour créer un master clonable.
 
 ---
@@ -51,7 +51,7 @@ Il utilise **PowerShell**, **Chocolatey** et **Sysprep** pour créer un master c
    ```powershell
    C:\Windows\System32\Sysprep\sysprep.exe
    
-![Screenshot 2025-06-27 004152](https://github.com/user-attachments/assets/9dbfa2d1-5c72-42ac-b6c6-ff7db36ae913)
+![lessgoo](https://github.com/user-attachments/assets/71e63ae0-39a8-4825-927d-1b3b4523a7e2)
 
 
 

@@ -52,8 +52,8 @@ Les logs sont générés automatiquement dans `C:\Logs\` lors de l'exécution.
    ```powershell
    C:\Windows\System32\Sysprep\sysprep.exe
    
-![lessgoo](https://github.com/user-attachments/assets/71e63ae0-39a8-4825-927d-1b3b4523a7e2)
+2. Choisir OOBE + Generalize + Shutdown
 
-
+3. VM s’éteint : master prêt pour capture
 
 ---

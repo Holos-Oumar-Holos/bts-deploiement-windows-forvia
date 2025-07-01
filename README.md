@@ -12,6 +12,7 @@
 Ce projet automatise l’installation et la configuration d’un poste Windows 10.
 Il utilise **PowerShell**, **Chocolatey** et **Sysprep** pour créer un master clonable.
 
+Les logs sont générés automatiquement dans `C:\Logs\` lors de l'exécution.
 ---
 
 ## 2. Environnement

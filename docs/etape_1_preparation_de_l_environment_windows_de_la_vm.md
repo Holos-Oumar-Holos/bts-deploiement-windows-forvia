@@ -1,4 +1,4 @@
-Étape 1 :
+# Étape 1 :
 
 - Télécharger VMware, le logiciel utilisé.
 

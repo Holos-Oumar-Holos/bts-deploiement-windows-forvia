@@ -1,3 +1,11 @@
+Étape 1 :
+
+- Télécharger VMware, le logiciel utilisé.
+
+- Télécharger l’ISO de Windows 10.
+
+- Créer une machine virtuelle avec l’option UEFI activée.
+
 ![000](https://github.com/user-attachments/assets/787b2fd2-d710-4ef9-9a46-125fe18a6bdd)
 ![001](https://github.com/user-attachments/assets/2c58e1d6-08c9-45e4-9184-14958cc1834a)
 ![002](https://github.com/user-attachments/assets/ecd2e5ad-0e96-41d8-b58e-6dc74683f6d4)

@@ -50,5 +50,9 @@ Il utilise **PowerShell**, **Chocolatey** et **Sysprep** pour créer un master c
 1. Exécuter :  
    ```powershell
    C:\Windows\System32\Sysprep\sysprep.exe
+   
+![Screenshot 2025-06-27 004152](https://github.com/user-attachments/assets/9dbfa2d1-5c72-42ac-b6c6-ff7db36ae913)
+
+
 
 ---
